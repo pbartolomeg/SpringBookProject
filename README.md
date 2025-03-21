@@ -38,7 +38,7 @@ DELETE	/api/books/{id}	Remove a book by ID
 
 Example GET Request:
 
-curl -X GET http://localhost:8080/books
+curl -X GET http://localhost:8080/api/books
 
 Example JSON Request for Adding a Book
 
